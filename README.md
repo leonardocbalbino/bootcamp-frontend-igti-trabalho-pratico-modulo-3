@@ -4,4 +4,4 @@ Aplicativo desenvolvido usando React que realiza o calculo do desconto de INSS, 
 
 Os cálculos apresentados estão de acordo com os percentuais adotados no ano de 2020.
 
-[preview](./public/preview.gif)
+![preview](./public/preview.gif)
